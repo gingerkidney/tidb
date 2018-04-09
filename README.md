@@ -57,6 +57,9 @@ Read the [Quick Start](https://pingcap.com/doc-QUICKSTART).
 Contributions are welcomed and greatly appreciated. See [CONTRIBUTING.md](CONTRIBUTING.md)
 for details on submitting patches and the contribution workflow.
 
+## Community
+You can join us by improving docs, improving code, giving talks, organizing meetups, etc. Find more about how to participate in the community here: https://github.com/pingcap/community
+
 ## Connect with us
 
 - **Twitter**: [@PingCAP](https://twitter.com/PingCAP)
